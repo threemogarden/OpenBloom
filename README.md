@@ -2,7 +2,7 @@
 An open collection of planting guides, data tools, and Python scripts for gardeners and plant enthusiasts.
 
 ## 🌿 Overview
-**OpenBloom** is a public knowledge repository created by **3MO Seeds (Canada)** to share useful, non-commercial materials from our gardening and data projects.  
+**OpenBloom** is a public knowledge repository created by **3Mo Garden (Canada)** to share useful, non-commercial materials from our gardening and data projects.  
 It bridges gardening wisdom and data science — offering practical planting information alongside transparent examples of code used to analyze or visualize it.
 
 ## 📘 Contents
